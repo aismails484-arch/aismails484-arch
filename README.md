@@ -1,7 +1,7 @@
 ## 👋 I am Ahmed Ismail Saed Hussein
 **Founder / CEO & Executive Director of SPH Global Research | Strategic Institutional Researcher | AI & Robotics Enthusiast**
 
-I specialize in developing strategic institutional frameworks, AI-integrated governance models, and environmental resilience assessments. My work bridges the gap between traditional governance (Xeer) and modern technological solutions to solve complex challenges in the Horn of Africa an all of the world.
+I specialize in developing strategic institutional frameworks, AI-integrated governance models, and environmental resilience assessments. My work bridges the gap between traditional governance (Xeer) and modern technological solutions to solve complex challenges in the Horn of Africa and all of the world.
 
 ### 🚀 Strategic Portfolio (12 Integrated Projects)
 * **National Mandates:** [Waste Management Phase 2](https://github.com/aismails484-arch/hargeisa-waste-management-assessment-phase-2) | [National Waste Unit Strategy](https://github.com/aismails484-arch/waste-management-unit-republicofsomaliland-hargeisa)
